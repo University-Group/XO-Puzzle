@@ -15,4 +15,4 @@ UCS
 A*
 
 # Output
-CMD no Gui
+CMD without GUI
